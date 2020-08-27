@@ -1,3 +1,7 @@
 .item-add-form {
     margin-top: 0.25rem;
 }
+
+.item-add-form input{
+    margin-right: 3px;
+}
